@@ -1,6 +1,5 @@
 # [Android] ========================
 # Built application files
-*.apk
 *.ap_
 
 # Files for the Dalvik VM
@@ -15,8 +14,6 @@ gen/
 
 # Gradle files
 .gradle/
-build/
-/*/build/
 .gradletasknamecache
 
 # Local configuration file (sdk path, etc)
