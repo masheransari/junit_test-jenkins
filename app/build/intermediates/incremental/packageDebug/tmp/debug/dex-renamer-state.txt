@@ -1,0 +1,4 @@
+#Mon Nov 09 12:34:52 PKT 2020
+base.0=G\:\\Yasir bhai\\android-testing-guide\\junit_test-jenkins\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
