@@ -18,7 +18,7 @@ public class CalculatorTest {
 
     @BeforeClass
     public static void testClassSetup() {
-        System.out.println("Getting test class ready");
+        System.out.println("Getting test class ready 1");
     }
 
     @AfterClass
